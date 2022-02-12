@@ -20,6 +20,20 @@
       "occupation": "Lives under the sea",
       "weapon": "Crabby Patty",
       "cartoon": true
+    },
+    {
+      "name": "Elisa Bárcena",
+      "occupation": "Actress",
+      "weapon": "Love",
+      "cartoon": true,
+      "id": 4
+    },
+    {
+      "name": "Raúl Alonso Merino",
+      "occupation": "Actor",
+      "weapon": "Bow",
+      "cartoon": true,
+      "id": 5
     }
   ]
 }
